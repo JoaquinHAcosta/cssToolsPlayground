@@ -1,4 +1,4 @@
-## Practice clsx + tailwindMerge
+# Practice clsx + tailwindMerge
 
 ### clsx
 
@@ -37,4 +37,3 @@ const className = merge({
 // Con arrays:
 const sizes = ['md', 'lg', 'xl'];
 const className = merge(sizes.map(size => `w-${size}`));
-# cssToolsPlayground
